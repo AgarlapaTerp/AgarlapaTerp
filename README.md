@@ -1,7 +1,5 @@
 ### 👋 Hey everyone, I'm Abhi ! 👋
 
-# Everything you see here are from my hackathons, personal endeavours, or school
-
 <!--
 **AgarlapaTerp/AgarlapaTerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Junior Computer Science Major at the University Of Maryland. I'm looking to work with like-minded people, and I would love to get to know you!
+
+- 🌱 I’m currently learning machine learning techniques
+- ⚡ Love to Volleyball 🏐  & Travel 🌎
+
 
 ### Find me all around the web:
 <p align="left">
@@ -50,6 +53,10 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br/>
+<br/>
+<br />
+
 
 
 
