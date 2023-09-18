@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a Junior Computer Science Major at the University Of Maryland. I'm looking to work with like-minded people, and I would love to get to know you!
 
 - 🌱 I’m currently learning machine learning techniques
-- ⚡ Love to Volleyball 🏐  & Travel 🌎
+- ⚡ Love to play Volleyball 🏐  & Travel 🌎
 
 
 ### Find me all around the web:
