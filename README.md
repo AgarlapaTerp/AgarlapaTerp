@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Junior Computer Science Major at the University Of Maryland. I'm looking to work with like-minded people, and I would love to get to know you!
+I'm a Rising Senior Computer Science Major at the University Of Maryland. I'm looking to work with like-minded people, and I would love to get to know you!
 
-- 🌱 I’m currently learning machine learning techniques
+- 🌱 I’m currently learning iOS development
 - ⚡ Love to play Volleyball 🏐  & Travel 🌎
 
 
